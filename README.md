@@ -1,7 +1,7 @@
 # vue-auth-course
 Simple message app buil from a vue.js course
 
-Format: ![Alt Text]('./assets/Screenshot_1.png')
+Format: ![Alt Text]('./vue-auth-frontend/assets/Screenshot_1.png')
 ## Project setup
 ```
 npm install
